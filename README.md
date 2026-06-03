@@ -24,3 +24,7 @@ Become a Backend / AI Developer and grow through internships, projects, and oppo
 ```python
 print("Future Hotmart Developer")
 
+## Contact
+-linkedIn: https://www.linkedin.com/in/bruno-miguel-da-silva-lucca-427879413/
+
+
