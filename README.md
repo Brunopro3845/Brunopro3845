@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Brunopro3845
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Brunopro3845/Brunopro3845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm @Brunopro3845
+I'm 15 years old and from Brazil
+My first code: print("Futuro Dev Hotmart")
+Goal: Hotmart Spark Program 2030
+2026 start: EF SET A2 - 2029 target: B2
