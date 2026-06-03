@@ -1,17 +1,18 @@
-# Hi, I'm Bruno
+## Hi, I'm Bruno 
 
 🇧🇷 Brazil | 16 years old
 
-## About me:
-Future Software Developer focused on Python, problem solving and building real projects.
+## About me
+Aspiring Software Developer focused on Python, problem solving, and building real-world projects.
 
-## I’m currently studying:
-- Python 
+## Currently learning
+- Python
 - English (A2 → improving)
 - Software Development fundamentals
 
-## My goal:
-Become a Backend / AI Developer and grow toward opportunities like internships and tech programs in companies such as Hotmart.
+## Goals
+Become a Backend / AI Developer and grow through internships, projects, and opportunities in tech companies like Hotmart.
 
-## First line of code:
-print("Futuro Dev Hotmart")
+## First line of code
+```python
+print("Future Hotmart Developer")
