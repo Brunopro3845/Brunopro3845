@@ -5,6 +5,10 @@
 ## About me
 Aspiring Software Developer focused on Python, problem solving, and building real-world projects.
 
+## Contact
+
+- LinkedIn:https://www.linkedin.com/in/bruno-miguel-da-silva-lucca-427879413/
+  
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +27,3 @@ Become a Backend / AI Developer and grow through internships, projects, and oppo
 ## First line of code
 ```python
 print("Future Hotmart Developer")
-
-## Contact
--linkedIn: https://www.linkedin.com/in/bruno-miguel-da-silva-lucca-427879413/
-
-
