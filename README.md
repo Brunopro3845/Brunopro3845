@@ -1,9 +1,17 @@
-Hi, I'm @Brunopro3845
+# Hi, I'm Bruno
 
-I'm 16 years old and from Brazil
+🇧🇷 Brazil | 16 years old
 
-My first code: print("Futuro Dev Hotmart")
+## About me:
+Future Software Developer focused on Python, problem solving and building real projects.
 
-Goal: Hotmart Spark Program 2030
+## I’m currently studying:
+- Python 
+- English (A2 → improving)
+- Software Development fundamentals
 
-2026 start: EF SET A2 - 2029 target: B2
+## My goal:
+Become a Backend / AI Developer and grow toward opportunities like internships and tech programs in companies such as Hotmart.
+
+## First line of code:
+print("Futuro Dev Hotmart")
