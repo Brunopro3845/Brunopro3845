@@ -7,7 +7,7 @@ Aspiring Software Developer focused on Python, problem solving, and building rea
 
 ## Contact
 
-- LinkedIn:https://www.linkedin.com/in/bruno-miguel-da-silva-lucca-427879413/
+- LinkedIn: https://www.linkedin.com/in/bruno-miguel-da-silva-lucca-427879413/
   
 ## Tech Stack
 
